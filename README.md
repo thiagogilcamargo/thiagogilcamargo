@@ -30,7 +30,7 @@
   <img src="https://media1.giphy.com/media/8UGFw1hWy5FE4m3R4F/giphy.gif?cid=ecf05e47nqnxsha7bze9gix6rn8wfp3mdh73xf5spe9vopxv&rid=giphy.gif&ct=g" width="400" height="400" />
 </div>
 <div>
-  <h1>💻 Habilidades</h1>
+  <h1>💻 Aprendendo </h1>
   <ul>
     <h3><li>Programação: Java, Python, HTML, CSS, JavaScript</li>
     <li>Banco de dados: MySQL, SQL Server, Oracle</li>
