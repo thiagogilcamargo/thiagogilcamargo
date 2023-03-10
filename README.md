@@ -18,8 +18,8 @@
     </a>
    
     </a>
-    <a href = "https://www.instagram.com/charlie/">
-      <img width="25" src="instagram.png">
+    <a href = "https://www.instagram.com/charlieparadiso/">
+      <img width="25" src="580b57fcd9996e24bc43c521.png">
     </a>
 
   
