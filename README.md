@@ -1,5 +1,5 @@
 
-  <h2>Olá, eu sou Thiago Gil! 👋</h2>
+  <h2>fala dev,aqui é Thiago Gil! 👋</h2>
   <h3>Sou um aluno de primeiro semestre de Análise e Desenvolvimento de Sistemas e estou animado para aprender e trabalhar com tecnologias como 🌐 HTML, CSS, JavaScript e Java.</h3>
 
 <div >
