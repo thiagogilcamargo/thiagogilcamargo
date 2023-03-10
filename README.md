@@ -2,10 +2,10 @@
   <h2>Olá, eu sou Thiago Gil! 👋</h2>
   <h3>Sou um aluno de primeiro semestre de Análise e Desenvolvimento de Sistemas e estou animado para aprender e trabalhar com tecnologias como 🌐 HTML, CSS, JavaScript e Java.</h3>
 
-  <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=thiagogilcamargo&show_icons=true&theme=dark" height="200" style="flex-basis: 48%; margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogilcamargo&layout=compact&theme=dark" height="200" style="flex-basis: 48%; margin-left: 10px;" />
-  </div>
+<div >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagogilcamargo&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogilcamargo&layout=compact&theme=dark"/>
+</div>
 
   <div style="display: flex; align-items: center; justify-content: space-between; border: 1px solid #ccc; padding: 20px; margin-top: 50px;">
   <div style="display: flex; align-items: center;">
@@ -25,7 +25,7 @@
   
   
  
-   <img src="https://cdnb.artstation.com/p/assets/images/images/022/652/167/original/caleb-barefoot-babyyoda-animated.gif?1576194620" width="90%" style="margin-top: 10px;"/>
+   <img src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif" width="100%" style="margin-top: 10px;"/>
 
 </div>
 
