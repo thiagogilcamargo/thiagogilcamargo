@@ -28,4 +28,4 @@
    <img src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif" width="100%" style="margin-top: 10px;"/>
 
 </div>
-
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
