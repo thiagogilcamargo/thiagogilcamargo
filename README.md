@@ -16,9 +16,7 @@
     <a href="https://api.whatsapp.com/send?phone=+5511963346868" target="_blank">
       <img width="25" src="logo-whatsapp-png-pic-0.png">
     </a>
-   
-    </a>
-    <a href = "https://www.instagram.com/charlieparadiso/">
+   <a href = "https://www.instagram.com/charlieparadiso/">
       <img width="25" src="580b57fcd9996e24bc43c521.png">
     </a>
 
