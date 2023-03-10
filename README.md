@@ -7,9 +7,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogilcamargo&layout=compact&theme=dark" height="200" style="flex-basis: 48%; margin-left: 10px;" />
   </div>
 
-  <div style="display: flex; align-items: center; justify-content: space-between; border: 1px solid #ccc; padding: 10px; margin-top: 30px;">
+  <div style="display: flex; align-items: center; justify-content: space-between; border: 1px solid #ccc; padding: 20px; margin-top: 50px;">
   <div style="display: flex; align-items: center;">
-    <i class="fas fa-phone-alt fa-lg" style="color: #4caf50; margin-right: 7px;"></i>
+    <i class="fas fa-phone-alt fa-lg" style="color: #4caf50; margin-right: 5px;"></i>
     <div style="margin-left: 5px;">
       <span style="font-weight: bold;"><h3>Contato:</h3></span>
       <div style="display: flex; align-items: center;">
