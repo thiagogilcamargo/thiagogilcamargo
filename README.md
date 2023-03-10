@@ -11,27 +11,21 @@
   <div style="display: flex; align-items: center;">
     <i class="fas fa-phone-alt fa-lg" style="color: #4caf50; margin-right: 7px;"></i>
     <div style="margin-left: 5px;">
-      <span style="font-weight: bold;"><h3>Contato:</h3></span>
+      <span style="font-weight: bold;"><h2>Contato:</h2></span>
       <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/24/000000/whatsapp.png" alt="WhatsApp" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/24/000000/whatsapp.png" alt="WhatsApp" style="margin-right: 1px;"/>
         <span><a href="https://wa.me/seunumerodetelefone" style="text-decoration: none; color: #000;">+55 11 963346868</a></span>
       </div>
       <div style="display: flex; align-items: center; margin-left: 5px;">
-        <img src="https://img.icons8.com/fluent/24/000000/gmail-new.png" alt="Gmail" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/fluent/24/000000/gmail-new.png" alt="Gmail" style="margin-right: 6px;"/>
         <span><a href="mailto:seuemail@gmail.com" style="text-decoration: none; color: #000;">thiagogilcmargo@gmail.com</a></span>
       </div>
     </div>
-  </div>
- 
-   
-
-
-
-
-
-
+  </div> 
   
-  <img src="https://cdnb.artstation.com/p/assets/images/images/022/652/167/original/caleb-barefoot-babyyoda-animated.gif?1576194620" width="90%" style="margin-top: 20px;"/>
+  
+ 
+   <img src="https://cdnb.artstation.com/p/assets/images/images/022/652/167/original/caleb-barefoot-babyyoda-animated.gif?1576194620" width="90%" style="margin-top: 10px;"/>
 
 </div>
 
