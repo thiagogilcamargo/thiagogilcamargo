@@ -22,11 +22,11 @@
    <a href = "https://www.instagram.com/charlieparadiso/" target="_blank">
       <img width="25" src="580b57fcd9996e24bc43c521.png">
     </a>
-    
+    <div>
 <h2>💻 Habilidades</h2>
   <ul>
     <h3><li>Programação: Java, Python, HTML, CSS, JavaScript</li>
     <li>Banco de dados: MySQL, SQL Server, Oracle</li>
       <li>Ferramentas: Eclipse, Visual Studio, Git</li></h3>
   </ul>
- 
+  </div>
