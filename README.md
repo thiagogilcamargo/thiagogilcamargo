@@ -10,16 +10,15 @@
  <h2>📧 Contato</h2>
   <h3><p>Se você quiser entrar em contato comigo para trocar experiências, tirar dúvidas ou até mesmo bater um papo sobre tecnologia, pode me encontrar nas seguintes redes:</p></h3>
  <h1 align="center">
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
+    <a href = "mailto:thiagogilcmargo@gmail.com">
+      <img width="25" src="official-gmail-icon-2020-.svg">
     </a>
     <a href="https://api.whatsapp.com/send?phone=+5511963346868" target="_blank">
       <img width="25" src="logo-whatsapp-png-pic-0.png">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
+   
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://www.instagram.com/charlie/">
       <img width="25" src="instagram.png">
     </a>
 
