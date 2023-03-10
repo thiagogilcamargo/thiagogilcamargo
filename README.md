@@ -14,11 +14,11 @@
       <span style="font-weight: bold;"><h3>Contato:</h3></span>
       <div style="display: flex; align-items: center;">
         <img src="https://img.icons8.com/color/24/000000/whatsapp.png" alt="WhatsApp" style="margin-right: 5px;"/>
-        <span><a href="https://wa.me/seunumerodetelefone" style="text-decoration: none; color: #000;">+55 11 963346868</a></span>
+        <span><a href="https://wa.me/+55 11 963346868" style="text-decoration: none; color: #000;">+55 11 963346868</a></span>
       </div>
       <div style="display: flex; align-items: center; margin-left: 5px;">
         <img src="https://img.icons8.com/fluent/24/000000/gmail-new.png" alt="Gmail" style="margin-right: 5px;"/>
-        <span><a href="mailto:seuemail@gmail.com" style="text-decoration: none; color: #000;">thiagogilcmargo@gmail.com</a></span>
+        <span><a href="mailto:thiagogilcmargo@gmail.com" style="text-decoration: none; color: #000;">thiagogilcmargo@gmail.com</a></span>
       </div>
     </div>
   </div> 
