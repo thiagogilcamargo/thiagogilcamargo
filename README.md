@@ -14,7 +14,7 @@
       <img width="30" src="gmail.svg">
     </a>
     <a href="https://api.whatsapp.com/send?phone=+5511963346868" target="_blank">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="logo-whatsapp-png-pic-0.png">
     </a>
     <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
       <img width="35" src="youtube.svg">
