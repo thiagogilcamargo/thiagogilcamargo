@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Eae dev, aqui é o Thiago Gil! 👋</h2>
+  <h1>Eae dev, aqui é o Thiago Gil! 👋</h1>
   <h3><p>Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP! 🎓</p></h3>
 </div>
 
@@ -12,7 +12,7 @@
   <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
-<h2>📧 Contato</h2>
+<h1>📧 Contato</h1>
 <h3><p>Se você quiser entrar em contato comigo para trocar experiências, tirar dúvidas ou até mesmo bater um papo sobre tecnologia, pode me encontrar nas seguintes redes:</p></h3>
 
 <div align="center">
@@ -30,7 +30,7 @@
   <img src="https://media1.giphy.com/media/8UGFw1hWy5FE4m3R4F/giphy.gif?cid=ecf05e47nqnxsha7bze9gix6rn8wfp3mdh73xf5spe9vopxv&rid=giphy.gif&ct=g" width="400" height="400" />
 </div>
 <div>
-  <h2>💻 Habilidades</h2>
+  <h1>💻 Habilidades</h1>
   <ul>
     <h3><li>Programação: Java, Python, HTML, CSS, JavaScript</li>
     <li>Banco de dados: MySQL, SQL Server, Oracle</li>
