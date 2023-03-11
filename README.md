@@ -34,8 +34,8 @@
 <div>
   <h1>💻 Aprendendo </h1>
   <ul>
-    <h3><li>Programação: Java, Python, HTML, CSS, JavaScript</li>
-    <li>Banco de dados: MySQL, SQL Server, Oracle</li>
-      <li>Ferramentas: Eclipse, Visual Studio, Git</li></h3>
+    <h3><li>Programação: Java,Python,HTML, CSS,JavaScript.</li>
+    <li>Banco de dados: MySQL, SQL Server, Oracle.</li>
+      <li>Ferramentas: IntelliJ IDEA ,Visual Studio,Git.</li></h3>
   </ul>
 </div>
