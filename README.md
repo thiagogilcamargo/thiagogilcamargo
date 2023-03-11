@@ -16,6 +16,8 @@
 <h3><p>Se você quiser entrar em contato comigo para trocar experiências, tirar dúvidas ou até mesmo bater um papo sobre tecnologia, pode me encontrar nas seguintes redes:</p></h3>
 
 <div align="center">
+   <a href="https://www.linkedin.com/in/thiago-gil-camargo-513584268/" target="_blank">
+    <img width="30" src="580b57fcd9996e24bc43c521.png"> 
   <a href="mailto:thiagogilcmargo@gmail.com" target="_blank">
     <img width="30" src="official-gmail-icon-2020-.svg">
   </a>
