@@ -17,7 +17,7 @@
 
 <div align="center">
    <a href="https://www.linkedin.com/in/thiago-gil-camargo-513584268/" target="_blank">
-    <img width="30" src="174857.png"> 
+    <img width="25" src="174857.png"> 
   <a href="mailto:thiagogilcmargo@gmail.com" target="_blank">
     <img width="30" src="official-gmail-icon-2020-.svg">
   </a>
