@@ -13,7 +13,7 @@
 
 <div>
   <div>
-  <h1>💻 Aprendendo</h1>
+  <h1>💻 Desemvolvendo</h1>
   <ul>
     <li><strong>Inteligência Artificial e Chatbot:</strong> Aprendizado de Máquina Supervisionado, Introdução à Estatística, Utilização de ferramentas como Watson Assistant para criar chatbots e sistemas de IA.</li>
     <li><strong>Construção de Banco de Dados Relacionais:</strong> Instruções e exercícios práticos sobre SQL, Projetos de banco de dados, normalização de estruturas de dados.</li>
@@ -32,17 +32,15 @@
   </ul>
   <h1>📚 Disciplinas e Matérias Estudadas</h1>
   <ul>
-    <h3>
-      <li><strong>Fundamentos de Programação:</strong> Lógica de programação, algoritmos, introdução a linguagens como Java e Python</li>
-      <li><strong>Desenvolvimento Web:</strong> HTML, CSS, JavaScript, frameworks front-end</li>
-      <li><strong>Banco de Dados:</strong> Modelagem de dados, SQL, administração de bancos de dados</li>
-      <li><strong>Engenharia de Software:</strong> Análise de requisitos, UML, metodologias ágeis</li>
-      <li><strong>Sistemas Operacionais:</strong> Conceitos de sistemas operacionais, gestão de recursos, processos e threads</li>
-      <li><strong>Redes de Computadores:</strong> Fundamentos de redes, protocolos de comunicação, segurança de redes</li>
-      <li><strong>Arquitetura de Computadores:</strong> Estrutura e funcionamento de hardware, arquitetura de processadores</li>
-      <li><strong>Desenvolvimento Mobile:</strong> Fundamentos de desenvolvimento de aplicativos móveis, principais plataformas e ferramentas</li>
-      <li><strong>Projeto Integrado:</strong> Desenvolvimento de projetos práticos integrando diversas tecnologias e conhecimentos adquiridos</li>
-    </h3>
+    <li><strong>Fundamentos de Programação:</strong> Lógica de programação, algoritmos, introdução a linguagens como Java e Python.</li>
+    <li><strong>Desenvolvimento Web:</strong> HTML, CSS, JavaScript, frameworks front-end.</li>
+    <li><strong>Banco de Dados:</strong> Modelagem de dados, SQL.</li>
+    <li><strong>Engenharia de Software:</strong> Análise de requisitos, UML, metodologias ágeis.</li>
+    <li><strong>Sistemas Operacionais:</strong> Conceitos básicos de sistemas operacionais.</li>
+    <li><strong>Redes de Computadores:</strong> Fundamentos de redes, protocolos de comunicação, segurança de redes.</li>
+    <li><strong>Arquitetura de Computadores:</strong> Estrutura e funcionamento de hardware, arquitetura de processadores.</li>
+    <li><strong>Desenvolvimento Mobile:</strong> Fundamentos de desenvolvimento de aplicativos móveis, principais plataformas e ferramentas.</li>
+    <li><strong>Projeto Integrado:</strong> Desenvolvimento de projetos práticos integrando diversas tecnologias e conhecimentos adquiridos.</li>
   </ul>
 </div>
 
