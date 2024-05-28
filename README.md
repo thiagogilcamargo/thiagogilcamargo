@@ -12,13 +12,23 @@
 </div>
 
 <div>
+  <div>
   <h1>💻 Aprendendo</h1>
   <ul>
-    <h3>
-      <li><strong>Programação:</strong> Java, Python, HTML, CSS, JavaScript</li>
-      <li><strong>Banco de Dados:</strong> MySQL, SQL Server, Oracle</li>
-      <li><strong>Ferramentas:</strong> IntelliJ IDEA, Visual Studio, Git</li>
-    </h3>
+    <li><strong>Inteligência Artificial e Chatbot:</strong> Aprendizado de Máquina Supervisionado, Introdução à Estatística, Utilização de ferramentas como Watson Assistant para criar chatbots e sistemas de IA.</li>
+    <li><strong>Construção de Banco de Dados Relacionais:</strong> Instruções e exercícios práticos sobre SQL, Projetos de banco de dados, normalização de estruturas de dados.</li>
+    <li><strong>Big Data & Analytics:</strong> Comandos SQL, Normalização de Estrutura de Dados, Transformação de Modelo Físico.</li>
+    <li><strong>Pensamento Computacional usando Python:</strong> Estruturas de Dados em Python, Controle de Fluxo, Manipulação de Arquivos.</li>
+    <li><strong>Design Orientado ao Domínio:</strong> Conceitos de Domain Driven Design (DDD), Implementação de Modelos de Domínio.</li>
+    <li><strong>Desenvolvimento Web Responsivo:</strong> Tecnologias Web como HTML5, CSS3, Frameworks e Bibliotecas Frontend, Consumo de APIs RESTful.</li>
+    <li><strong>Design de Software e Experiência Total:</strong> Planejamento de Negócios de Software, Metodologias Ágeis, Estratégias de Monetização.</li>
+    <li><strong>Java Advanced:</strong> Desenvolvimento avançado em Java, uso do framework Spring, Desenvolvimento de API RESTful.</li>
+    <li><strong>Advanced Business Development with .NET:</strong> Desenvolvimento empresarial utilizando a plataforma .NET, Operações CRUD com Oracle.</li>
+    <li><strong>Compliance, Quality Assurance & Tests:</strong> Utilização do Azure DevOps, Testes Unitários, Test-Driven Development (TDD).</li>
+    <li><strong>DevOps Tools & Cloud Computing:</strong> Uso do Azure DevOps, Docker para contêinerização, Azure Cloud para computação em nuvem.</li>
+  </ul>
+</div>
+
   </ul>
   <h1>📚 Disciplinas e Matérias Estudadas</h1>
   <ul>
